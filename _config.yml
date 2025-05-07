@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "jieun"
+title                    : "jieun의 블로그"
 tab_title                : "기술블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joo JiEUN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "안녕하세요<br/>프론트 공부중인 주지은입니다."
+  location         : "South Korea"
+  email            : "pangdoa_merry@daum.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
